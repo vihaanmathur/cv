@@ -1,8 +1,9 @@
 /*
- * l031.cpp
+ * This program implements the Knuth randomization algorithm to calculate the closest points in a set of 10,000-100,000. 
+ It then displays the points in a ppm image.
  *
  *  Created on: Oct 11, 2022
- *      Author: viditmathur
+ *      Author: Vihaan Mathur
  */
 
 #include <iostream>
