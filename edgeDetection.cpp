@@ -1,5 +1,6 @@
 /*
- * l051.cpp
+ * This program implements the Canny Edge Detection on any image. 
+ It uses hysteresis, double threshold (image1.ppm), and non-maximum suppression to generate three images. 
  *
  *  Created on: Dec 14, 2022
  *      Author: Vihaan Mathur
