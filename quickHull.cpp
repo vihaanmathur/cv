@@ -1,8 +1,8 @@
 /*
- * l041.cpp
+ * This program uses a Graham Scan to implement the QuickHull Algorithm and draw a Convex Hull on a ppm image. 
  *
  *  Created on: Nov 30, 2022
- *      Author: viditmathur
+ *      Author: Vihaan Mathur
  */
 
 #include <iostream>
