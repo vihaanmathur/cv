@@ -1,5 +1,6 @@
 /*
- * l061.cpp
+ * This program uses Canny Edge Detection and edge/gradient direction matrix to detect coins in an image. It then calculates the total
+ money amount based on the radii of the respective detected coins. 
  *
  *  Created on: Feb 3, 2023
  *      Author: viditmathur
