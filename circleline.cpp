@@ -1,8 +1,9 @@
 /*
- * bresenhams.cpp
+ * The program uses the Bresenham Line Drawing Algorithm and Circle Drawing Algorithm 
+ to draw circles, lines, and Euler lines across a white screen. 
  *
  *  Created on: Aug 29, 2022
- *      Author: viditmathur
+ *      Author: Vihaan Mathur
  */
 
 #include<iostream>
