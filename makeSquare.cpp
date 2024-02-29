@@ -1,8 +1,8 @@
 /*
- * l021.cpp
+ * This program draws a square as an intersection of four lines that sweep the entire screen. 
  *
  *  Created on: Sep 16, 2022
- *      Author: viditmathur
+ *      Author: Vihaan Mathur 
  */
 
 #include <cmath>
