@@ -1,3 +1,12 @@
+/*
+ * This program uses orthographic projection and a rotation matrix to create a video of a cube on a real-life video of a table. 
+ The video rotates around the table and the cube's vertices change based on the perspective of the camera. 
+ *
+ *  Created on: April 8, 2023
+ *      Author: Vihaan Mathur
+ */
+
+
 #include <stdio.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>
