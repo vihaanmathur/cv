@@ -1,3 +1,11 @@
+/*
+ * This program implements coin detection, but uses OpenCV. 
+ *
+ *  Created on: Feb 20, 2023
+ *      Author: Vihaan Mathur
+ */
+
+
 #include <stdio.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>
